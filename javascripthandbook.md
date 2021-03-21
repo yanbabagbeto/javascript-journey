@@ -33,3 +33,16 @@ Javascript can be added using the script tag in the head section of an html docu
 We use *for..in* to loop through objects and *for..of* to loop through arrays.
 </details>
   
+ <details>
+    <summary>falsy values</summary>
+    
+|Falsy|
+|-----|
+|undefined|
+|null|
+|''|
+|false|
+|0|
+|NaN|
+
+</details>
