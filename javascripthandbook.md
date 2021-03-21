@@ -17,7 +17,6 @@ Javascript can be added using the script tag in the head section of an html docu
 
 *defer*: You should use defer when you need to load multiple javascript scripts in a certain order. The scripts are then run in the order they appear in the page and executed as soon as they are all the scripts and content are downloaded.  
 
-test
 
 ```js
     <script async src="script1.js"></script>
@@ -26,3 +25,11 @@ test
 
 ```
 </details>
+
+
+<details>
+    <summary>for..in VS for..of</summary>
+    
+We use *for..in* to loop through objects and *for..of* to loop through arrays.
+</details>
+  
