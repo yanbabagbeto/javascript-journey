@@ -30,7 +30,8 @@ Javascript can be added using the script tag in the head section of an html docu
 <details>
     <summary>for..in VS for..of</summary>
     
-We use *for..in* to loop through objects and *for..of* to loop through arrays.
+We use *for..in* to loop through objects and *for..of* to loop through arrays or maps.
+Note that objects are not iterable
 </details>
   
  <details>
